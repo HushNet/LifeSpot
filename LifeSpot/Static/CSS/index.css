@@ -51,3 +51,7 @@ header,footer,body,.video-container{
 .navelement:hover{
     color: aliceblue;
 }
+
+.searchBar:focus{
+    background-color: yellow;
+}
